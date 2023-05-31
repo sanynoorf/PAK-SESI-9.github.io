@@ -1,0 +1,45 @@
+.input-small {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    font-size: 12px;
+    margin-right: 5px;
+  }
+ .form-group {
+  margin-bottom: 15px;
+}
+
+label {
+ 
+  display: inline-block;
+  width: 150px;
+}
+
+.radio-group {
+  display: inline-block;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+/*containers*/
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.input-text-80 {
+  width: 80%;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+/*cpekit*/
+
+
